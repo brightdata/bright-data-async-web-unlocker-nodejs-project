@@ -2,6 +2,8 @@
 
 [Edit in StackBlitz editor ⚡️](https://stackblitz.com/~/github.com/brightdata/bright-data-async-web-unlocker-nodejs-project?file=index.js)
 
+<a href="https://github.com/brightdata/bright-data-async-web-unlocker-nodejs-project?file=index.js" target="_blank">Open in CodeSandbox</a>, sign in with GitHub, then fork the repository to begin making changes.
+
 ## Bright Data Asynchronous Web Unlocker API Example
 
 This project demonstrates how to use Bright Data's asynchronous Web Unlocker API to access websites through Bright Data Web Unlocker API.
