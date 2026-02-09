@@ -1,6 +1,7 @@
 {
-  "name": "bright-data-async-web-unlocker-nodejs-project",
+  "name": "@brightdata/bright-data-async-web-unlocker-nodejs-project",
   "version": "1.0.0",
+  "private": true,
   "description": "Bright Data asynchronous Web Unlocker Nodejs boilerplate code",
   "main": "index.js",
   "scripts": {
